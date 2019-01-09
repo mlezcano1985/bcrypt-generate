@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/mlezcano1985/bcrypt-generate.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Miguel Lezcano",
+    "email": "mlezcano1985@gmail.com"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mlezcano1985/bcrypt-generate/issues"
   },
@@ -19,5 +22,16 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "yargs": "^12.0.5"
-  }
+  },
+  "keywords": [
+    "bcrypt",
+    "bcryptjs",
+    "nodejs",
+    "password",
+    "auth",
+    "authentication",
+    "encryption",
+    "crypt",
+    "crypto"
+  ]
 }
